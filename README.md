@@ -50,27 +50,36 @@ Tools
 Python 3.x
 Jupyter Notebook
 Git
-Dataset Analysis Potential
+Dataset Analysis
+
+Potential
+
 This dataset enables analysis across multiple dimensions:
-Price Analysis
-Price distribution across brands
-Average pricing by RAM/ROM configuration
-Price vs. rating correlation
+    Price Analysis
+    Price distribution across brands
+    Average pricing by RAM/ROM configuration
+    Price vs. rating correlation
 
 Brand Insights
 
-Market share by number of listings
-Brand rating comparisons
-Price positioning by manufacturer
+    Market share by number of listings
+    
+    Brand rating comparisons
+    
+    Price positioning by manufacturer
 
 Specifications Trends
 
-Popular RAM/ROM combinations
-Display size preferences
-Storage expandability options
+    Popular RAM/ROM combinations
+    
+    Display size preferences
+    
+    Storage expandability options
 
 Customer Satisfaction
 
-Rating distribution analysis
-Rating vs. price relationships
-High-rated budget phones identification
+    Rating distribution analysis
+    
+    Rating vs. price relationships
+    
+    High-rated budget phones identification
